@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.201.20.0",
+    "_created": "2025-04-01T14:48:46.642656-05:00",
+    "_lastModifiedByAppHost": "2.201.20.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2025-04-01T14:48:49.9061461-05:00"
+  },
+  "_solution": {
+    "_name": "CCR UI TS1070",
+    "_projects": [
+      {
+        "_name": "CCR UI TS1070",
+        "_filename": "CCR UI TS1070/CCR UI TS1070.cuip",
+        "_datetime": "2025-04-01T19:48:49.9052916Z"
+      }
+    ]
+  }
+}

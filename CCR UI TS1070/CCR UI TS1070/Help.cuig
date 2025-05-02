@@ -1,0 +1,191 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-01 14:48:49.846474-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-01 14:48:49.846468-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-background id="i8iuw6nnaf" componentname="Background" devicesvisited="[&quot;TSW-1070&quot;]" imgbackgroundcolor="transparent" assetid="27c279d5-5956-4e42-b7e5-80fdf62c17d7"></ch5-background><div devicesvisited="[&quot;TSW-1070&quot;]" id="i08chnjtuj" componentname="FillBorderObject_2_21"></div><ch5-button tagname="ch5-button" ccid_componenttype="button" ccid_ch5type="button" ccid_syncproperties="disabled" previewstate="normal" customvstheme="custom" valignlabel="middle" pageflipattributename="pageflip" size="custom" orientation="horizontal" shape="rounded-rectangle" type="default" iconposition="first" ccid_imageicontype="imageasset" id="ie2j0gblxq" iconurlfilltype="initial" customclass="ccid-custom" selected="false" checkboxshow="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Button_62" halignlabel="center" pageflip="-1" pd-receivestateselected="45" sendeventontouch="45" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 31px; color: rgb(255,255,255);&quot;&gt;Yes, &lt;BR/&gt;Send Message&lt;/span&gt;&lt;/p&gt;" labelmode="advanced"></ch5-button><ch5-button tagname="ch5-button" ccid_componenttype="button" ccid_ch5type="button" ccid_syncproperties="disabled" previewstate="normal" customvstheme="custom" valignlabel="middle" pageflipattributename="pageflip" size="custom" orientation="horizontal" shape="rounded-rectangle" type="default" iconposition="first" ccid_imageicontype="imageasset" id="ixeg1ftjq0" iconurlfilltype="initial" customclass="ccid-custom" selected="false" checkboxshow="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Button_73" halignlabel="center" pageflip="-1" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 28px; color: rgb(255,255,255);&quot;&gt;No, &lt;BR/&gt;Go Back&lt;/span&gt;&lt;/p&gt;" labelmode="advanced"></ch5-button><ch5-text devicesvisited="[&quot;TSW-1070&quot;]" id="i6wmtlg5sn" clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_44" horizontalalignment="center" verticalalignment="middle" pd-receivestateshow="46" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 63px; color: rgb(255,0,0);&quot;&gt;*** Help Message Sent Successfully ***&lt;/span&gt;&lt;/p&gt;" labelmodeadvncomponent="advanced"></ch5-text><ch5-text devicesvisited="[&quot;TSW-1070&quot;]" id="imd7h6k30q" clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_85" horizontalalignment="center" verticalalignment="middle" pd-receivestateshow="47" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 63px; color: rgb(255,0,0);&quot;&gt;*** Help Message&amp;nbsp;Failed to Send&amp;nbsp;***&lt;/span&gt;&lt;/p&gt;" labelmodeadvncomponent="advanced"></ch5-text><ch5-text devicesvisited="[&quot;TSW-1070&quot;]" id="ik5ifqpe33" clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_96" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 34px; color: rgb(0,0,0);&quot;&gt;&lt;strong&gt;You can reach the Enterprise AV Group by calling 568-HELP&lt;BR/&gt;or by sending an email to enterpriseavgroup@lsuhsc.edu.&lt;br/&gt;&lt;BR/&gt;You can also send an email using the button below.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;" labelmodeadvncomponent="advanced"></ch5-text>
+
+{Css}
+@media (max-width: 99999px) { #i08chnjtuj { position: absolute; display: block; border-style: solid; top: 100px; left: 77px; width: 1125px; height: 570px; border-width: 4px; border-color: rgba(0,0,0,1); border-radius: 0px; background-color: rgba(233,183,8,1) } #ie2j0gblxq { position: absolute; display: block; font-family: Roboto; top: 391px; left: 267px; width: 338px; --ch5-button--regular-width: 338px; height: 93px; --ch5-button--regular-height: 93px; --ch5-button--default-background-color: rgba(255,59,48,0.95); Appearance_background-color: rgba(255,59,48,0.95); --ch5-button--default-pressed-background-color: rgba(255,59,48,0.74); pressedAppearance_background-color: rgba(255,59,48,0.74); --ch5-button--default-selected-background-color: rgb(255,29,24); selectedAppearance_background-color: rgb(255,29,24); --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; --ch5-button--regular-selected-font-size: 15px; Label_font-size: 15px; pressedLabel_font-size: 15px; selectedLabel_font-size: 15px; custom-normal-label-font-size: 15px; custom-pressed-label-font-size: 15px; custom-selected-label-font-size: 15px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px } #ixeg1ftjq0 { position: absolute; display: block; font-family: Roboto; top: 394px; left: 662px; width: 338px; --ch5-button--regular-width: 338px; height: 93px; --ch5-button--regular-height: 93px; --ch5-button--default-background-color: rgba(38,40,41,0.95); Appearance_background-color: rgba(38,40,41,0.95); --ch5-button--default-pressed-background-color: rgba(125,126,127,0.4); pressedAppearance_background-color: rgba(125,126,127,0.4); --ch5-button--default-selected-background-color: rgb(0, 46, 191); selectedAppearance_background-color: rgb(0, 46, 191); --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; --ch5-button--regular-selected-font-size: 15px; Label_font-size: 15px; pressedLabel_font-size: 15px; selectedLabel_font-size: 15px; custom-normal-label-font-size: 15px; custom-pressed-label-font-size: 15px; custom-selected-label-font-size: 15px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px } #i6wmtlg5sn .ch5-text { min-width: 10px; min-height: 10px; padding: 0; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 1110px; height: 92px; color: #ff0000; font-size: 68px; custom-font-size: 68px } #i6wmtlg5sn .ch5-text .ch5-text--span { max-height: max-content !important } #i6wmtlg5sn .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #i6wmtlg5sn { position: absolute; line-height: normal; display: block !important; text-decoration: none; top: 536px; left: 85px; width: 1110px; height: 92px; text-shadow: 2px 2px 2px #000000; font-family: Roboto } #i6wmtlg5sn .ch5-text--horizontal-alignment-center { padding: 0 } #imd7h6k30q .ch5-text { min-width: 10px; min-height: 10px; padding: 0; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 1110px; height: 92px; color: #ff0000; font-size: 68px; custom-font-size: 68px } #imd7h6k30q .ch5-text .ch5-text--span { max-height: max-content !important } #imd7h6k30q .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #imd7h6k30q { position: absolute; line-height: normal; display: block !important; text-decoration: none; top: 478px; left: 81px; width: 1110px; height: 92px; text-shadow: 2px 2px 2px #000000; font-family: Roboto } #imd7h6k30q .ch5-text--horizontal-alignment-center { padding: 0 } #ik5ifqpe33 .ch5-text { min-width: 10px; min-height: 10px; padding: 0; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 1142px; height: 265px; color: #000000; font-size: 36px; custom-font-size: 36px } #ik5ifqpe33 .ch5-text .ch5-text--span { max-height: max-content !important } #ik5ifqpe33 .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #ik5ifqpe33 { position: absolute; line-height: normal; display: block !important; text-decoration: none; top: 121px; left: 78px; width: 1142px; height: 265px; font-family: Roboto } #ik5ifqpe33 .ch5-text--horizontal-alignment-center { padding: 0 } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Help"
+PageMode = "absolute"
+Id = "618441c2-d359-47d5-b389-d1addb789ec6"
+StartPage = "False"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "0"
+DisplayBackgroundColor = "False"
+BackgroundColor = "rgb(0,113,188)"
+
+[[Elements]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+id = "i8iuw6nnaf"
+componentName = "Background"
+devicesVisited = "[\"TSW-1070\"]"
+imgbackgroundcolor = "transparent"
+assetid = "27c279d5-5956-4e42-b7e5-80fdf62c17d7"
+[[Elements]]
+Type = "html-div"
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "i08chnjtuj"
+componentName = "FillBorderObject_2_21"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+tagname = "ch5-button"
+ccid_componenttype = "button"
+ccid_ch5type = "button"
+ccid_syncproperties = "disabled"
+previewstate = "normal"
+customvstheme = "custom"
+valignlabel = "middle"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+shape = "rounded-rectangle"
+type = "default"
+iconposition = "first"
+ccid_imageIconType = "imageasset"
+id = "ie2j0gblxq"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+selected = "false"
+checkboxshow = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Button_62"
+halignlabel = "center"
+pageflip = "0fc67d94-21ac-4fee-8207-fa83daf35cdc"
+pd-receivestateselected = "45"
+sendeventontouch = "45"
+labelinnerhtml = "<p><span  style=\" font-size: 31px; color: rgb(255,255,255);\">Yes, <BR/>Send Message</span></p>"
+labelmode = "advanced"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+tagname = "ch5-button"
+ccid_componenttype = "button"
+ccid_ch5type = "button"
+ccid_syncproperties = "disabled"
+previewstate = "normal"
+customvstheme = "custom"
+valignlabel = "middle"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+shape = "rounded-rectangle"
+type = "default"
+iconposition = "first"
+ccid_imageIconType = "imageasset"
+id = "ixeg1ftjq0"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+selected = "false"
+checkboxshow = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Button_73"
+halignlabel = "center"
+pageflip = "0fc67d94-21ac-4fee-8207-fa83daf35cdc"
+labelinnerhtml = "<p><span  style=\" font-size: 28px; color: rgb(255,255,255);\">No, <BR/>Go Back</span></p>"
+labelmode = "advanced"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "i6wmtlg5sn"
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_44"
+horizontalalignment = "center"
+verticalalignment = "middle"
+pd-receivestateshow = "46"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 63px; color: rgb(255,0,0);\">*** Help Message Sent Successfully ***</span></p>"
+labelmodeadvncomponent = "advanced"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "imd7h6k30q"
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_85"
+horizontalalignment = "center"
+verticalalignment = "middle"
+pd-receivestateshow = "47"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 63px; color: rgb(255,0,0);\">*** Help Message&nbsp;Failed to Send&nbsp;***</span></p>"
+labelmodeadvncomponent = "advanced"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ik5ifqpe33"
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_96"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 34px; color: rgb(0,0,0);\"><strong>You can reach the Enterprise AV Group by calling 568-HELP<BR/>or by sending an email to enterpriseavgroup@lsuhsc.edu.<br/><BR/>You can also send an email using the button below.</strong></span></p>"
+labelmodeadvncomponent = "advanced"
+

@@ -1,0 +1,40 @@
+{
+  "name": "TS-1070",
+  "timestamp": "2025-04-01 14:48:48.129",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "Crestron SGD Imported Project",
+  "signals": {
+    "states": {
+      "boolean": {},
+      "numeric": {},
+      "string": {}
+    },
+    "events": {
+      "boolean": {
+        "CameraControl.DPad5.Up": {
+          "joinId": 1,
+          "smartObjectId": 1
+        },
+        "CameraControl.DPad5.Down": {
+          "joinId": 2,
+          "smartObjectId": 1
+        },
+        "CameraControl.DPad5.Left": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "CameraControl.DPad5.Right": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "CameraControl.DPad5.Center": {
+          "joinId": 5,
+          "smartObjectId": 1
+        }
+      },
+      "numeric": {},
+      "string": {}
+    }
+  }
+}

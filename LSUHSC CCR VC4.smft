@@ -1,0 +1,12 @@
+<Device Model="4-Series Ethernet Control System" Name="Ethernet-Only 4-series">
+   <Network Type="Ethernet" Id="01">
+      <Device Model="TST-1080" DeviceId="03"/>
+      <Device Model="Core3 UI XPanel" DeviceId="04" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="HD-WP-4K-401-C" DeviceId="07" Name="HD-WP-4K-401-C VW PROCESSOR"/>
+      <Device Model="DM-NVX-36x" DeviceId="20" Name="DM-NVX-36x Video Wall"/>
+      <Device Model="DM-NVX-36x" DeviceId="21" Name="DM-NVX-36x Left Display"/>
+      <Device Model="DM-NVX-36x" DeviceId="22" Name="DM-NVX-36x Right Display"/>
+      <Device Model="DM-NVX-36xC" DeviceId="23" Name="DM-NVX-36xC Quad In 1"/>
+      <Device Model="DM-NVX-36xC" DeviceId="24" Name="DM-NVX-36xC Quad In 2"/>
+   </Network>
+</Device>

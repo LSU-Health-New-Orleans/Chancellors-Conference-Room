@@ -1,0 +1,892 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-29 10:25:21.080227-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-29 10:25:21.080218-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" id="ijqqus2fva" componentname="Background" devicesvisited="[&quot;TSW-1070&quot;]" imgbackgroundcolor="transparent" assetid="27c279d5-5956-4e42-b7e5-80fdf62c17d7" backgroundcolor="#ffffff" ccid_linksendreceive="True">
+              </ch5-background><ch5-button orientation="horizontal" size="custom" shape="rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="top" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="advancedbutton" ccid_ch5type="button" customvstheme="custom" id="ijgly1cdh5" ccid_themecssset="true" editstylesfor="label" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Multi-ModeButton1" pageflip="0" assetid="0" labelinnerhtml="label">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="imageasset" modecount="0" id="iilu331sm9" type="default" valignlabel="middle" devicesvisited="[&quot;TSW-1070&quot;]" assetid="78e1716a-32f1-47bb-b300-315f47b93277" labelinnerhtml="" halignlabel="center" iconposition="top"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="ix0bgy9jar" state="normal" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0" ccid_themecssset="true"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ik9fx5myvk" state="pressed" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0" ccid_themecssset="true"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="i8nveng55k" state="selected" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state></ch5-button-mode><ch5-button-mode componentname="mode 1" class="ch5-button-child" ccid_imageicontype="imageasset" modecount="1" id="i3ipv3kgfi" type="default" valignlabel="middle" devicesvisited="[&quot;TSW-1070&quot;]" assetid="449aee50-be6f-4260-b241-4e86bc140b33" labelinnerhtml="" halignlabel="center" iconposition="top"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iz7taz0u9g" state="normal" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="i2fol40dmq" state="pressed" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="iqr41mb9uu" state="selected" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state></ch5-button-mode><ch5-button-mode componentname="mode 2" class="ch5-button-child" ccid_imageicontype="imageasset" modecount="2" id="i9jn8ufhud" type="default" valignlabel="middle" devicesvisited="[&quot;TSW-1070&quot;]" assetid="af80120b-bc86-4472-8dc1-ab6a768af0a7" labelinnerhtml="" halignlabel="center" iconposition="top"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iv04qkq70b" state="normal" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ix6mfbx2xc" state="pressed" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="ilo4x84bm9" state="selected" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state></ch5-button-mode><ch5-button-mode componentname="mode 3" class="ch5-button-child" ccid_imageicontype="imageasset" modecount="3" id="iblzpcvdp2" type="default" valignlabel="middle" devicesvisited="[&quot;TSW-1070&quot;]" assetid="c97091a9-c3ed-46fe-8bb7-89dc2e13c7df" labelinnerhtml="" halignlabel="center" iconposition="top"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="igbkiyj15p" state="normal" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ikyotuantj" state="pressed" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="iz4p3ojhn9" state="selected" devicesvisited="[&quot;TSW-1070&quot;]" type="default" iconurlfilltype="initial" labelmode="simple" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" tagname="ch5-button" ccid_ch5type="button" customvstheme="custom" id="ittj4888px" selected="false" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Button_22" pageflip="618441c2-d359-47d5-b389-d1addb789ec6" labelinnerhtml="<span  style=&quot; font-size: 38px; color: rgb(255,255,255);&quot;>?<br/></span><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Push For<BR/>Help</span>" labelmode="advanced" assetid="0">
+              </ch5-button><html-div devicesvisited="[&quot;TSW-1070&quot;]" id="ikzx37qpz8" componentname="FillBorderObject_63" componentwasresized="true"></html-div><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" tagname="ch5-button" ccid_ch5type="button" customvstheme="custom" id="io0zd1uhmt" selected="false" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Button_311" pageflip="0fc67d94-21ac-4fee-8207-fa83daf35cdc" labelinnerhtml="<span  style=&quot; font-size: 63px; color: rgb(255,0,0);&quot;>X<br/></span><span  style=&quot; font-size: 31px; color: rgb(255,0,0);&quot;>Exit</span>" labelmode="advanced" assetid="0">
+              </ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="advancedbutton" ccid_ch5type="button" customvstheme="custom" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" id="i0xqiea3axlba" labelinnerhtml="" labelmode="simple" componentname="AdvancedButton_410" pageflip="0" pd-receivestateselected="73" sendeventontouch="73" assetid="0" oldid="i8dawmfs05">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="igxft2mfnc" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iny5fk1k9r" state="normal" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All On</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="inq9shzgn0" state="pressed" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All On</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="id79zu6sby" state="selected" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All On</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="advancedbutton" ccid_ch5type="button" customvstheme="custom" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" id="ignwgm3gadjfc" labelinnerhtml="" labelmode="simple" componentname="Button" pageflip="0" pd-receivestateselected="76" sendeventontouch="76" assetid="0" oldid="i0xqiea3axlba"><ch5-button-mode componentname="mode 0" ccid_imageicontype="iconclass" modecount="0" id="igxft2mfnc-2" type="default" devicesvisited="[&quot;TSW-1070&quot;]" assetid="0" class="ch5-button-child"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iny5fk1k9r-2" state="normal" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="inq9shzgn0-2" state="pressed" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="id79zu6sby-2" state="selected" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>All Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="advancedbutton" ccid_ch5type="button" customvstheme="custom" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" id="i8uocffa9rknl" labelinnerhtml="" labelmode="simple" componentname="Button_1" pageflip="0" pd-receivestateselected="71" sendeventontouch="71" assetid="0" oldid="i0xqiea3axlba" previewstate="normal"><ch5-button-mode componentname="mode 0" ccid_imageicontype="iconclass" modecount="0" id="igxft2mfnc-3" type="default" devicesvisited="[&quot;TSW-1070&quot;]" assetid="0" class="ch5-button-child"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iny5fk1k9r-3" state="normal" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Presentation</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="inq9shzgn0-3" state="pressed" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Presentation</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="id79zu6sby-3" state="selected" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Presentation</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="advancedbutton" ccid_ch5type="button" customvstheme="custom" ccid_themecssset="true" devicesvisited="[&quot;TSW-1070&quot;]" id="iw4bldu1zsh4h" labelinnerhtml="" labelmode="simple" componentname="Button_2" pageflip="0" pd-receivestateselected="74" sendeventontouch="74" assetid="0" oldid="i8uocffa9rknl" previewstate="normal"><ch5-button-mode componentname="mode 0" ccid_imageicontype="iconclass" modecount="0" id="igxft2mfnc-3-2" type="default" devicesvisited="[&quot;TSW-1070&quot;]" class="ch5-button-child"><ch5-button-mode-state componentname="normal" ccid_imageicontype="imageasset" id="iny5fk1k9r-3-2" state="normal" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Dim</span></p>" class="ch5-button-child"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" ccid_imageicontype="imageasset" id="inq9shzgn0-3-2" state="pressed" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Dim</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0" class="ch5-button-child"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" ccid_imageicontype="imageasset" id="id79zu6sby-3-2" state="selected" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" valignlabel="middle" iconurlfilltype="initial" labelinnerhtml="<p><span style=&quot; font-size: 26px; color: rgb(255,255,255);&quot;>Dim</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" iconposition="top" assetid="0" class="ch5-button-child"></ch5-button-mode-state></ch5-button-mode></ch5-button>
+
+{Css}
+@media (max-width: 99999px){#ijgly1cdh5{position:absolute;display:block;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;top:17px;left:11px;width:37px;--ch5-button--regular-width:37px;height:35px;--ch5-button--regular-height:35px;--ch5-button--default-background-color:rgba(255, 255, 255, 0);Appearance_background-color:rgba(255, 255, 255, 0);--ch5-button--default-pressed-background-color:rgba(255, 255, 255, 0.5);pressedAppearance_background-color:rgba(255, 255, 255, 0.5);--ch5-button--default-selected-background-color:rgba(255, 255, 255, 0.7);selectedAppearance_background-color:rgba(255, 255, 255, 0.7);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-font-size:15px;--ch5-button--regular-pressed-font-size:15px;--ch5-button--regular-selected-font-size:15px;Label_font-size:15px;pressedLabel_font-size:15px;selectedLabel_font-size:15px;custom-normal-label-font-size:15px;custom-pressed-label-font-size:15px;custom-selected-label-font-size:15px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;}#ijgly1cdh5 .ch5-button-child{--ch5-button--regular-width:37px;--ch5-button--regular-height:35px;position:absolute;width:inherit;height:inherit;top:0;left:0;}#ikzx37qpz8{position:absolute;display:block;border-style:solid;top:146px;left:25px;width:1229px;height:635px;border-width:2px;border-color:rgba(0,0,0,1);border-radius:0px;background-color:rgba(0,0,0,0.7);}#io0zd1uhmt{position:absolute;display:block;font-family:Roboto;top:6px;left:1095px;width:166px;--ch5-button--regular-width:166px;height:133px;--ch5-button--regular-height:133px;--ch5-button--default-background-color:rgba(38,40,41,0.95);Appearance_background-color:rgba(38,40,41,0.95);--ch5-button--default-pressed-background-color:rgba(125,126,127,0.4);pressedAppearance_background-color:rgba(125,126,127,0.4);--ch5-button--default-selected-background-color:rgb(0, 46, 191);selectedAppearance_background-color:rgb(0, 46, 191);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-font-size:15px;--ch5-button--regular-pressed-font-size:15px;--ch5-button--regular-selected-font-size:15px;Label_font-size:15px;pressedLabel_font-size:15px;selectedLabel_font-size:15px;custom-normal-label-font-size:15px;custom-pressed-label-font-size:15px;custom-selected-label-font-size:15px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;}#i0xqiea3axlba{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:216px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#i0xqiea3axlba .ch5-button-child{position:absolute;display:block;--ch5-button--regular-width:113px;--ch5-button--regular-height:86px;top:0px;left:0px;height:inherit;width:inherit;}#i0xqiea3axlba .ch5-button-mode-state{Appearance_border-width:0px;}#i0xqiea3axlba[mode="0"]{--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:14px;--ch5-button--regular-font-size:15px;Label_font-size:15px;custom-normal-icon-font-size:14px;}#i0xqiea3axlba[mode="0"][pressed="true"]{--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:14px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;custom-pressed-icon-font-size:14px;}#i0xqiea3axlba[mode="0"][selected="true"]{--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;custom-selected-label-font-size:14px;custom-selected-icon-font-size:14px;}#ijgly1cdh5[mode="0"]{--ch5-button--regular-image-width:60%;Image_width:60%;--ch5-button--regular-image-height:60%;Image_height:60%;--ch5-button--default-background-color:rgba(255, 255, 255, 0);Appearance_background-color:rgba(255, 255, 255, 0);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;custom-normal-label-font-size:14px;custom-normal-icon-font-size:14px;}#ijgly1cdh5[mode="0"][pressed="true"]{--ch5-button--regular-pressed-image-width:60%;pressedImage_width:60%;--ch5-button--regular-pressed-image-height:60%;pressedImage_height:60%;--ch5-button--default-pressed-background-color:rgba(255, 255, 255, 0.5);pressedAppearance_background-color:rgba(255, 255, 255, 0.5);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;custom-pressed-label-font-size:14px;custom-pressed-icon-font-size:14px;}#ittj4888px{position:absolute;display:block;font-family:Roboto;top:6px;left:6px;width:159px;--ch5-button--regular-width:159px;height:133px;--ch5-button--regular-height:133px;--ch5-button--default-background-color:rgba(255,59,48,0.95);Appearance_background-color:rgba(255,59,48,0.95);--ch5-button--default-pressed-background-color:rgba(255,59,48,0.74);pressedAppearance_background-color:rgba(255,59,48,0.74);--ch5-button--default-selected-background-color:rgb(255,29,24);selectedAppearance_background-color:rgb(255,29,24);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-font-size:15px;--ch5-button--regular-pressed-font-size:15px;--ch5-button--regular-selected-font-size:15px;Label_font-size:15px;pressedLabel_font-size:15px;selectedLabel_font-size:15px;custom-normal-label-font-size:15px;custom-pressed-label-font-size:15px;custom-selected-label-font-size:15px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;}#ignwgm3gadjfc{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:360px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#ignwgm3gadjfc .ch5-button-child{position:absolute;display:block;--ch5-button--regular-width:113px;--ch5-button--regular-height:86px;top:8px;left:8px;height:inherit;width:inherit;}#ignwgm3gadjfc .ch5-button-mode-state{Appearance_border-width:0px;}#ignwgm3gadjfc[mode="0"]{--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:14px;--ch5-button--regular-font-size:15px;Label_font-size:15px;custom-normal-icon-font-size:14px;}#ignwgm3gadjfc[mode="0"][pressed="true"]{--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:14px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;custom-pressed-icon-font-size:14px;}#ignwgm3gadjfc[mode="0"][selected="true"]{--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;custom-selected-label-font-size:14px;custom-selected-icon-font-size:14px;}#i8uocffa9rknl{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:497px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#i8uocffa9rknl .ch5-button-child{position:absolute;display:block;--ch5-button--regular-width:113px;--ch5-button--regular-height:86px;top:8px;left:8px;height:inherit;width:inherit;}#i8uocffa9rknl .ch5-button-mode-state{Appearance_border-width:0px;}#i8uocffa9rknl[mode="0"]{--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:14px;--ch5-button--regular-font-size:15px;Label_font-size:15px;custom-normal-icon-font-size:14px;}#i8uocffa9rknl[mode="0"][pressed="true"]{--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:14px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;custom-pressed-icon-font-size:14px;}#i8uocffa9rknl[mode="0"][selected="true"]{--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;custom-selected-label-font-size:14px;custom-selected-icon-font-size:14px;}#ijqqus2fva{display:block;}#wrapper{background-color:#0071bc;}#iw4bldu1zsh4h{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:633px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#iw4bldu1zsh4h .ch5-button-child{position:absolute;display:block;--ch5-button--regular-width:113px;--ch5-button--regular-height:86px;top:16px;left:16px;height:inherit;width:inherit;}#iw4bldu1zsh4h .ch5-button-mode-state{Appearance_border-width:0px;}#iw4bldu1zsh4h[mode="0"]{--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:14px;--ch5-button--regular-font-size:15px;Label_font-size:15px;custom-normal-icon-font-size:14px;}#iw4bldu1zsh4h[mode="0"][pressed="true"]{--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:14px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;custom-pressed-icon-font-size:14px;}#iw4bldu1zsh4h[mode="0"][selected="true"]{--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;--ch5-button--default-selected-border-style:none;selectedAppearance_border-style:none;--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;custom-selected-label-font-size:14px;custom-selected-icon-font-size:14px;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i0xqiea3axlba{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:216px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#ittj4888px{left:6px;top:6px;position:absolute;width:159px;height:133px;}#ignwgm3gadjfc{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:360px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#i8uocffa9rknl{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:497px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}#ijqqus2fva{display:block;}#iw4bldu1zsh4h{position:absolute;display:block;width:233px;height:86px;font-family:Roboto;--ch5-button--regular-image-width:60%;--ch5-button--regular-pressed-image-width:60%;--ch5-button--regular-selected-image-width:60%;Image_width:60%;pressedImage_width:60%;selectedImage_width:60%;--ch5-button--regular-image-height:60%;--ch5-button--regular-pressed-image-height:60%;--ch5-button--regular-selected-image-height:60%;Image_height:60%;pressedImage_height:60%;selectedImage_height:60%;--ch5-button--default-border-style:none;Appearance_border-style:none;--ch5-button--default-pressed-border-style:none;pressedAppearance_border-style:none;--ch5-button--default-selected-border-style:none;--ch5-button--default-border-width:0px;Appearance_border-width:0px;--ch5-button--default-pressed-border-width:0px;pressedAppearance_border-width:0px;--ch5-button--default-selected-border-width:0px;selectedAppearance_border-width:0px;selectedAppearance_border-style:none;top:633px;left:478px;--ch5-button--regular-width:233px;--ch5-button--regular-height:86px;--ch5-button--label-margin-top:0px;Label_margin-top:0px;--ch5-button--label-margin-left:0px;Label_margin-left:0px;--ch5-button--default-background-color:rgba(38, 40, 41, 0.95);Appearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-label-font-color:#ffffff;Label_color:#ffffff;custom-normal-label-font-size:15px;--ch5-button--regular-font-size:15px;Label_font-size:15px;--ch5-button--pressed-label-margin-top:0px;pressedLabel_margin-top:0px;--ch5-button--pressed-label-margin-left:0px;pressedLabel_margin-left:0px;--ch5-button--default-pressed-background-color:rgba(38, 40, 41, 0.95);pressedAppearance_background-color:rgba(38, 40, 41, 0.95);--ch5-button--default-pressed-label-font-color:#ffffff;pressedLabel_color:#ffffff;custom-pressed-label-font-size:15px;--ch5-button--regular-pressed-font-size:15px;pressedLabel_font-size:15px;--ch5-button--selected-label-margin-top:0px;selectedLabel_margin-top:0px;--ch5-button--selected-label-margin-left:0px;selectedLabel_margin-left:0px;--ch5-button--default-selected-background-color:rgb(0, 61, 255);selectedAppearance_background-color:rgb(0, 61, 255);--ch5-button--default-selected-label-font-color:#ffffff;selectedLabel_color:#ffffff;custom-selected-label-font-size:15px;--ch5-button--regular-selected-font-size:15px;selectedLabel_font-size:15px;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Lighting"
+PageMode = "absolute"
+Id = "68da094d-23a5-4ce0-b3ab-4318eb37ec17"
+StartPage = "False"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "0"
+DisplayBackgroundColor = "False"
+BackgroundColor = "rgb(0,113,188)"
+
+[[Elements]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+id = "ijqqus2fva"
+componentName = "Background"
+devicesVisited = "[\"TSW-1070\"]"
+imgbackgroundcolor = "transparent"
+assetid = "27c279d5-5956-4e42-b7e5-80fdf62c17d7"
+backgroundcolor = "#ffffff"
+ccid_linkSendReceive = "True"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "ix0bgy9jar"
+state = "normal"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+ccid_themeCSSSet = "true"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "ik9fx5myvk"
+state = "pressed"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+ccid_themeCSSSet = "true"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "i8nveng55k"
+state = "selected"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "imageasset"
+modecount = "0"
+id = "iilu331sm9"
+type = "default"
+valignlabel = "middle"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "78e1716a-32f1-47bb-b300-315f47b93277"
+iconurl = "StaticFiles/2a7d687e-731f-4ee0-9827-fb8f62a25b0b/78e1716a-32f1-47bb-b300-315f47b93277/0bcth14z.png"
+labelinnerhtml = ""
+halignlabel = "center"
+iconposition = "top"
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iz7taz0u9g"
+state = "normal"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "i2fol40dmq"
+state = "pressed"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "iqr41mb9uu"
+state = "selected"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 1"
+ccid_imageIconType = "imageasset"
+modecount = "1"
+id = "i3ipv3kgfi"
+type = "default"
+valignlabel = "middle"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "449aee50-be6f-4260-b241-4e86bc140b33"
+iconurl = "StaticFiles/2a7d687e-731f-4ee0-9827-fb8f62a25b0b/449aee50-be6f-4260-b241-4e86bc140b33/x3hbhqwd.png"
+labelinnerhtml = ""
+halignlabel = "center"
+iconposition = "top"
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iv04qkq70b"
+state = "normal"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "ix6mfbx2xc"
+state = "pressed"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "ilo4x84bm9"
+state = "selected"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 2"
+ccid_imageIconType = "imageasset"
+modecount = "2"
+id = "i9jn8ufhud"
+type = "default"
+valignlabel = "middle"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "af80120b-bc86-4472-8dc1-ab6a768af0a7"
+iconurl = "StaticFiles/2a7d687e-731f-4ee0-9827-fb8f62a25b0b/af80120b-bc86-4472-8dc1-ab6a768af0a7/d4hqxrrj.png"
+labelinnerhtml = ""
+halignlabel = "center"
+iconposition = "top"
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "igbkiyj15p"
+state = "normal"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "ikyotuantj"
+state = "pressed"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+[[Elements.Components.Components]]
+Name = "ch5-button-mode-state"
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "iz4p3ojhn9"
+state = "selected"
+devicesVisited = "[\"TSW-1070\"]"
+type = "default"
+iconurlfilltype = "initial"
+labelmode = "simple"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 3"
+ccid_imageIconType = "imageasset"
+modecount = "3"
+id = "iblzpcvdp2"
+type = "default"
+valignlabel = "middle"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "c97091a9-c3ed-46fe-8bb7-89dc2e13c7df"
+iconurl = "StaticFiles/2a7d687e-731f-4ee0-9827-fb8f62a25b0b/c97091a9-c3ed-46fe-8bb7-89dc2e13c7df/ivtfrfws.png"
+labelinnerhtml = ""
+halignlabel = "center"
+iconposition = "top"
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "top"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "ijgly1cdh5"
+ccid_themeCSSSet = "true"
+editstylesfor = "label"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Multi-ModeButton1"
+pageflip = "0"
+assetid = "0"
+labelinnerhtml = "label"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+tagname = "ch5-button"
+ccid_ch5type = "button"
+customvstheme = "custom"
+id = "ittj4888px"
+selected = "false"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Button_22"
+pageflip = "618441c2-d359-47d5-b389-d1addb789ec6"
+labelinnerhtml = "<span  style=\" font-size: 38px; color: rgb(255,255,255);\">?<br/></span><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Push For<BR/>Help</span>"
+labelmode = "advanced"
+assetid = "0"
+[[Elements]]
+Type = "html-div"
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ikzx37qpz8"
+componentName = "FillBorderObject_63"
+componentWasResized = "true"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+tagname = "ch5-button"
+ccid_ch5type = "button"
+customvstheme = "custom"
+id = "io0zd1uhmt"
+selected = "false"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Button_311"
+pageflip = "0fc67d94-21ac-4fee-8207-fa83daf35cdc"
+labelinnerhtml = "<span  style=\" font-size: 63px; color: rgb(255,0,0);\">X<br/></span><span  style=\" font-size: 31px; color: rgb(255,0,0);\">Exit</span>"
+labelmode = "advanced"
+assetid = "0"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iny5fk1k9r"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All On</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "inq9shzgn0"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All On</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "id79zu6sby"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All On</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "igxft2mfnc"
+type = "default"
+assetid = "0"
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+id = "i0xqiea3axlba"
+labelinnerhtml = ""
+labelmode = "simple"
+componentName = "AdvancedButton_410"
+pageflip = "0"
+pd-receivestateselected = "73"
+sendeventontouch = "73"
+assetid = "0"
+oldID = "i8dawmfs05"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iny5fk1k9r-2"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "inq9shzgn0-2"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "id79zu6sby-2"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">All Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "igxft2mfnc-2"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "0"
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+id = "ignwgm3gadjfc"
+labelinnerhtml = ""
+labelmode = "simple"
+componentName = "Button"
+pageflip = "0"
+pd-receivestateselected = "76"
+sendeventontouch = "76"
+assetid = "0"
+oldID = "i0xqiea3axlba"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iny5fk1k9r-3"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Presentation</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "inq9shzgn0-3"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Presentation</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "id79zu6sby-3"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Presentation</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "igxft2mfnc-3"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+assetid = "0"
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+id = "i8uocffa9rknl"
+labelinnerhtml = ""
+labelmode = "simple"
+componentName = "Button_1"
+pageflip = "0"
+pd-receivestateselected = "71"
+sendeventontouch = "71"
+assetid = "0"
+oldID = "i0xqiea3axlba"
+previewstate = "normal"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iny5fk1k9r-3-2"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Dim</span></p>"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "inq9shzgn0-3-2"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Dim</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "id79zu6sby-3-2"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+valignlabel = "middle"
+iconurlfilltype = "initial"
+labelinnerhtml = "<p><span style=\" font-size: 26px; color: rgb(255,255,255);\">Dim</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+iconposition = "top"
+assetid = "0"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "igxft2mfnc-3-2"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-1070\"]"
+id = "iw4bldu1zsh4h"
+labelinnerhtml = ""
+labelmode = "simple"
+componentName = "Button_2"
+pageflip = "0"
+pd-receivestateselected = "74"
+sendeventontouch = "74"
+assetid = "0"
+oldID = "i8uocffa9rknl"
+previewstate = "normal"
+

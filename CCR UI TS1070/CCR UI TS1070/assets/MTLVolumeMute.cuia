@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-01 14:48:48.177521-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-01 14:48:48.177509-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "5a4e87bb-be1b-41c0-ac14-5dc127321df4"
+Name = "MTLVolumeMute"
+SourceUri = "MTLVolumeMute.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

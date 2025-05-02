@@ -1,0 +1,14 @@
+<nvx><switch snmpCommunity="public" snmpVersion="v2c" address="155.58.164.11"></switch><domain name="CCR" login="admin" passwd="AVr0cks!" isCustomMulticastRange="false" multicastOffset="0"></domain>
+<devices>
+<device position="1" type="transmitter" Name="CCR-PCLEFT" Device="DM-NVX-360C" IP="172.21.194.21" MAC="C4426845F980"/>
+<device position="2" type="transmitter" Name="CCR-PCRIGHT" Device="DM-NVX-360C" IP="172.21.194.22" MAC="C442683DAA1D"/>
+<device position="3" type="transmitter" Name="CCR-LAPTOP-CREDENZA" Device="DM-NVX-360C" IP="172.21.194.23" MAC="C4426845FCA8"/>
+<device position="4" type="transmitter" Name="CCR-TABLE" Device="DM-NVX-351" IP="172.21.194.35" MAC="C44268639001"/>
+<device position="5" type="transmitter" Name="CCR-AIRMEDIA" Device="DM-NVX-360C" IP="172.21.194.16" MAC="C442683DAC7C"/>
+<device position="6" type="transmitter" Name="CCR-QUAD-OUT" Device="DM-NVX-360C" IP="172.21.194.17" MAC="C4426845FB86"/>
+<device position="1" type="receiver" Name="CCR-VIDEOWALL" Device="DM-NVX-360" IP="172.21.194.31" MAC="C442683D6598"/>
+<device position="2" type="receiver" Name="CCR-MONITOR-LEFT" Device="DM-NVX-360" IP="172.21.194.32" MAC="C442685BB93A"/>
+<device position="3" type="receiver" Name="CCR-MONITOR-RIGHT" Device="DM-NVX-360" IP="172.21.194.39" MAC="C4426B3D62FC"/>
+<device position="4" type="receiver" Name="CCR-QUAD-IN1" Device="DM-NVX-360" IP="172.21.194.38" MAC="C4426B4B69B2"/>
+<device position="5" type="receiver" Name="CCR-QUAD-IN2" Device="DM-NVX-360C" IP="172.21.194.20" MAC="C4426845FB29"/>
+</devices></nvx>

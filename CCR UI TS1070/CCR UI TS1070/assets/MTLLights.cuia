@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-01 14:48:48.188039-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-01 14:48:48.188032-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "416fa033-4577-43c1-b8ef-89a7c01ac89d"
+Name = "MTLLights"
+SourceUri = "MTLLights.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

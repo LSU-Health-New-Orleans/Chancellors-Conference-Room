@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-01 14:48:48.216818-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-01 14:48:48.216811-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "97f50802-3c7b-400d-8880-1641661b0bd2"
+Name = "MTLMinus"
+SourceUri = "MTLMinus.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+
