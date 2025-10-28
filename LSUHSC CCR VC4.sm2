@@ -37150,8 +37150,6 @@ n1I=3
 n1O=2
 Cmn1=PGM MUTE
 mI=3
-I1=206
-I2=74
 I3=20
 mO=2
 tO=2
@@ -38150,19 +38148,18 @@ SmVr=1224
 PrH=93
 CF=2
 n1I=1
-n1O=6
+n1O=5
 Cmn1=POWER ON
 mI=1
 I1=82
-mO=6
-tO=6
+mO=5
+tO=5
 O1=32
 O2=4
 O3=95
 O4=44
 O5=65
-O6=74
-mP=10
+mP=8
 P1=.2s
 P2=.2s
 P3=.2s
@@ -38171,8 +38168,6 @@ P5=.2s
 P6=.2s
 P7=.2s
 P8=.2s
-P9=.2s
-P10=.2s
 ]
 [
 ObjTp=Sm
@@ -38184,26 +38179,23 @@ SmVr=1224
 PrH=93
 CF=2
 n1I=1
-n1O=5
+n1O=4
 Cmn1=POWER OFF\\
 mI=1
 I1=83
-mO=5
-tO=5
+mO=4
+tO=4
 O1=32
 O2=6
 O3=96
 O4=204
-O5=206
-mP=8
+mP=6
 P1=.2s
 P2=.2s
 P3=.2s
 P4=.2s
 P5=.2s
 P6=.2s
-P7=.2s
-P8=.2s
 ]
 [
 ObjTp=Sm
@@ -47729,11 +47721,6 @@ Nm=CORE_INIT
 ]
 [
 ObjTp=Sg
-H=74
-Nm=FORCE_VOL_MUTE_OFF
-]
-[
-ObjTp=Sg
 H=75
 Nm=ZOOM_STOP
 ]
@@ -48403,11 +48390,6 @@ Nm=CM_FORCE_MUTE_ON
 ObjTp=Sg
 H=205
 Nm=VOL_MUTE_ON
-]
-[
-ObjTp=Sg
-H=206
-Nm=FORCE_VOL_MUTE_ON
 ]
 [
 ObjTp=Sg
