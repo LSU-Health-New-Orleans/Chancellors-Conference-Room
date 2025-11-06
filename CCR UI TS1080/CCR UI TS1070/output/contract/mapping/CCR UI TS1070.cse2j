@@ -1,0 +1,19 @@
+{
+  "name": "CCR UI TS1070",
+  "timestamp": "2025-11-06T19:41:17.1419484+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "states": {
+      "boolean": {},
+      "numeric": {},
+      "string": {}
+    },
+    "events": {
+      "boolean": {},
+      "numeric": {},
+      "string": {}
+    }
+  }
+}

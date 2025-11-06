@@ -35888,29 +35888,29 @@ Mx1=0
 ObjTp=Bw
 H=1
 Lx=0
-Ly=0
-Rx=1112
-Ry=453
+Ly=302
+Rx=1094
+Ry=604
 Xm=-1
 Ym=-1
-SH=95
+SH=22
 Z=100
 Ht=3
-Hi=10
+Hi=2
 ]
 [
 ObjTp=Bw
 H=1
 Lx=0
-Ly=453
-Rx=1112
+Ly=604
+Rx=1094
 Ry=906
 Xm=-1
 Ym=-1
 SH=443
 Z=100
-Ht=4
-Hi=7
+Ht=1
+Hi=167
 ]
 [
 ObjTp=Et
@@ -36454,7 +36454,7 @@ tO=2
 O1=109
 mP=4
 P1=
-P2=Standard Video Mode
+P2=Currently Displaying
 P3=Currently Displaying
 P4=
 ]

@@ -2,10 +2,10 @@
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.201.20.0"
 Created = 2025-04-01 14:48:48.160553-05:00
-LastModifiedByAppHost = "2.201.20.0"
-Modified = 2025-04-15 18:19:26.101642-05:00
+LastModifiedByAppHost = "2.701.5.0"
+Modified = 2025-11-06 11:47:12.148521-06:00
 CreatedByProjectApp = "1.3801.23.0"
-LastModifiedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.4301.17.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
@@ -17,11 +17,17 @@ MinimumAppHost = "2.0.0"
 [Attributes]
 Name = "CCR UI TS1070"
 ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
 ThemePageColor = "#0071bc"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "True"
 SdkId = "CH5:2.12.0"
 ComponentKey = "UiEditor"
 Id = "2a7d687e-731f-4ee0-9827-fb8f62a25b0b"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
 DeviceResolutionIds = "D-L-TSW1070-1280-0800"
 ipId = "04"
 ProjectSchemaVersion = "6"
+ContractIsStale = "false"
 
