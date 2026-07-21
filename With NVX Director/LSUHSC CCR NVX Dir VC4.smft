@@ -1,0 +1,8 @@
+<Device Model="4-Series Ethernet Control System" Name="Ethernet-Only 4-series">
+   <Network Type="Ethernet" Id="01">
+      <Device Model="TST-1080" DeviceId="03"/>
+      <Device Model="Core3 UI XPanel" DeviceId="04" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="HD-WP-4K-401-C" DeviceId="07" Name="HD-WP-4K-401-C VW PROCESSOR"/>
+      <Device Model="DM-XIO-DIR-ENT" DeviceId="AA"/>
+   </Network>
+</Device>

@@ -2,12 +2,12 @@
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.201.20.0"
 Created = 2025-04-01 14:48:48.160553-05:00
-LastModifiedByAppHost = "2.701.5.0"
-Modified = 2025-11-06 11:47:12.148521-06:00
+LastModifiedByAppHost = "2.1301.14.0"
+Modified = 2026-07-14 12:12:40.546123-05:00
 CreatedByProjectApp = "1.3801.23.0"
-LastModifiedByProjectApp = "1.4301.17.0"
+LastModifiedByProjectApp = "1.4701.7.0"
 MinimumProjectApp = "1.2600.1"
-MinimumAppHost = "2.0.0"
+MinimumAppHost = "2.901.0"
 
 {DeviceResolutionSource}
 []
@@ -26,8 +26,10 @@ ComponentKey = "UiEditor"
 Id = "2a7d687e-731f-4ee0-9827-fb8f62a25b0b"
 RuntimeThemeJoin = "0"
 RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
 DeviceResolutionIds = "D-L-TSW1070-1280-0800"
 ipId = "04"
-ProjectSchemaVersion = "6"
-ContractIsStale = "false"
+ProjectSchemaVersion = "12"
+ContractIsStale = "true"
 

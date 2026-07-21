@@ -1,0 +1,26 @@
+<nvx>
+  <switch snmpCommunity="public" snmpVersion="v2c" address="155.58.164.11"></switch>
+  <domain name="RCB-CCR" login="admin" passwd="ef11231f08185ff7|8856d54eba270184688b3a2481f679ae|a8d7e9cb950505aa384055f7242fbdc6b114a3c02f7e3a1f198a599d2bb6a730" isCustomMulticastRange="false" multicastOffset="0"></domain>
+  <controlSystem ipId="AA" roomId="RCBCCR" ipAddress="LSUHSC-VC4.LSUHSC.EDU" source="domain"></controlSystem>
+  <devices>
+  <device position="1" type="OUTPUT" Name="CCR-VIDEOWALL" Device="DM-NVX-360" MAC="C442683D6598" IP="172.21.194.31"/>
+  <device position="2" type="OUTPUT" Name="CCR-MONITOR-LEFT" Device="DM-NVX-360" MAC="C442685BB93A" IP="172.21.194.32"/>
+  <device position="3" type="OUTPUT" Name="CCR-MONITOR-RIGHT" Device="DM-NVX-360" MAC="c442683d62fc" IP="172.21.194.39"/>
+  <device position="4" type="OUTPUT" Name="CCR-QUAD-IN1" Device="DM-NVX-360" MAC="c44268634328" IP="172.21.194.38"/>
+  <device position="5" type="OUTPUT" Name="CCR-QUAD-IN2" Device="DM-NVX-360C" MAC="C4426845FB29" IP="172.21.194.20"/>
+ 
+ <device position="1" type="INPUT" Name="CCR-PCLEFT" Device="DM-NVX-360C" MAC="C4426845F980" IP="172.21.194.21" MAddr="239.14.0.0"/>
+  <device position="2" type="INPUT" Name="CCR-PCRIGHT" Device="DM-NVX-360C" MAC="C442683DAA1D" IP="172.21.194.22" MAddr="239.14.0.8"/>
+  <device position="3" type="INPUT" Name="CCR-LAPTOP-CREDENZA" Device="DM-NVX-360C" MAC="C4426845FCA8" IP="172.21.194.23" MAddr="239.14.0.16"/>
+  <device position="4" type="INPUT" Name="CCR-TABLE" Device="DM-NVX-351" MAC="c442686e78dd" IP="172.21.194.35" MAddr="239.14.0.24"/>
+  <device position="5" type="INPUT" Name="dCCR-AIRMEDIA" Device="DM-NVX-360C" MAC="C442683DAC7C" IP="172.21.194.16" MAddr="239.14.0.32"/>
+  <device position="6" type="INPUT" Name="CCR-QUAD-OUT" Device="DM-NVX-360C" MAC="c4426845fb86" IP="172.21.194.17" MAddr="239.14.0.40"/>
+  </devices>
+</nvx>
+
+	
+	
+	
+	
+	
+	
